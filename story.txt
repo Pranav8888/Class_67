@@ -1,4 +1,6 @@
 **Story**
 
 Terminus build a laser using the ruins of an ancient building. 
-Velocity and Cell assissted him in this creation.
+Velocity and Cell assissted him in this creation. 
+They figured out how to use the broken parts of the wall for the base of laser.
+Then they engineered the motors and created a power source.
